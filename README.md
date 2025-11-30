@@ -12,6 +12,7 @@ Code Demo:  https://www.youtube.com/watch?v=ZZe5SIoOgGo
 **Resources:**  
 - [PowerPoint](https://fau-my.sharepoint.com/:p:/r/personal/nshaneen2022_fau_edu1/Documents/Presentation.pptx?d=wf66b67e0404f46aaad6ccdcb56bd1485&csf=1&web=1&e=tZeo04)  
 - [Dataset](https://www.kaggle.com/datasets/mexwell/trashcan-1-0)
+- [Code Demo](https://www.youtube.com/watch?v=ZZe5SIoOgGo)
 
 ## Project Overview
 
