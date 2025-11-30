@@ -152,7 +152,7 @@ model.val()
 - **Model Architecture**: YOLOv8m (medium)
 - **Input Size**: 640x640 pixels
 - **Batch Size**: 16
-- **Training Epochs**: 50
+- **Training Epochs**: 50 ( We however ran it for 22 epochs due to runtime limitations on Colab)
 - **Number of Classes**: 1 (trash)
 
 ## Expected Results
